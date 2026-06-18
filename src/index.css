@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root { font-family: "Inter", system-ui, sans-serif; }
+.display { font-family: "Space Grotesk", sans-serif; }

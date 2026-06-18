@@ -1,0 +1,17 @@
+# dependencies
+node_modules/
+
+# build output
+dist/
+
+# generated at build time by scripts/copy-core.mjs (regenerated on every build)
+public/ffmpeg/
+public/ffmpeg-mt/
+public/ort/
+
+# misc
+*.local
+.DS_Store
+.env
+.vercel
+.netlify
